@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there im Android / Flutter Developer👋
 
 - 🔭 I’m currently working on ... My projects =)
 - 🌱 I’m currently learning ... Java, Android , Futter
