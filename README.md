@@ -3,4 +3,4 @@
 - 🔭 I’m currently working on ... My projects =)
 - 🌱 I’m currently learning ... Java, Android , Futter
 
-!(https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg)
+![sneak](https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg)
