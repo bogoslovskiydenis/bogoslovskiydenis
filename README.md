@@ -2,7 +2,5 @@
 
 - 🔭 I’m currently working on ... My projects =)
 - 🌱 I’m currently learning ... Java, Android , Futter
-- 🤔 I’m looking for help with ... somebody help me?)))
-- 💬 Ask me about ... Anythin =))
 
-
+!(https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg)
